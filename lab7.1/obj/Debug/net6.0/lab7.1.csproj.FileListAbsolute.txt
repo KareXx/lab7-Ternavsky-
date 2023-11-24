@@ -1,0 +1,14 @@
+F:\C#\lab7\lab7.1\bin\Debug\net6.0\lab7.1.exe
+F:\C#\lab7\lab7.1\bin\Debug\net6.0\lab7.1.deps.json
+F:\C#\lab7\lab7.1\bin\Debug\net6.0\lab7.1.runtimeconfig.json
+F:\C#\lab7\lab7.1\bin\Debug\net6.0\lab7.1.dll
+F:\C#\lab7\lab7.1\bin\Debug\net6.0\lab7.1.pdb
+F:\C#\lab7\lab7.1\obj\Debug\net6.0\lab7.1.GeneratedMSBuildEditorConfig.editorconfig
+F:\C#\lab7\lab7.1\obj\Debug\net6.0\lab7.1.AssemblyInfoInputs.cache
+F:\C#\lab7\lab7.1\obj\Debug\net6.0\lab7.1.AssemblyInfo.cs
+F:\C#\lab7\lab7.1\obj\Debug\net6.0\lab7.1.csproj.CoreCompileInputs.cache
+F:\C#\lab7\lab7.1\obj\Debug\net6.0\lab7.1.dll
+F:\C#\lab7\lab7.1\obj\Debug\net6.0\refint\lab7.1.dll
+F:\C#\lab7\lab7.1\obj\Debug\net6.0\lab7.1.pdb
+F:\C#\lab7\lab7.1\obj\Debug\net6.0\lab7.1.genruntimeconfig.cache
+F:\C#\lab7\lab7.1\obj\Debug\net6.0\ref\lab7.1.dll
